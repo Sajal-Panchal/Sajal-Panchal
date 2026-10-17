@@ -4,12 +4,10 @@
   ║  GitHub Profile README — customize links and project repos   ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
-
+--------
+![image](https://github.com/Sajal-Panchal/Sajal-Panchal/blob/main/technical-banner.jpg?raw=true)
+--------
 <div align="center">
-
-<img width="100%" src="assets/technical-banner.svg" alt="Custom technical banner — Sajal Panchal"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=170&section=header&text=DATA%20SCIENCE%20%2F%20AI&fontSize=38&fontColor=67E8F9&fontAlignY=48&animation=twinkling&color=0:07111f,50:102a43,100:164e63" alt="Animated Data Science and AI banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Turning+data+into+actionable+insights;Building+with+Python%2C+SQL+%26+Machine+Learning;Designing+clear%2C+insightful+BI+dashboards;Exploring+Generative+AI%2C+NLP+%26+MLOps" alt="Animated typing text"/>
@@ -368,5 +366,6 @@ Practice experience with labeling support data for intent, sentiment, and person
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=900&color=94A3B8&center=true&vCenter=true&width=650&height=35&lines=Learn+continuously.+Build+thoughtfully.+Share+what+you+learn." alt="Closing message"/>
 
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=170&section=header&text=DATA%20SCIENCE%20%2F%20AI&fontSize=38&fontColor=67E8F9&fontAlignY=48&animation=twinkling&color=0:07111f,50:102a43,100:164e63" alt="Animated Data Science and AI banner"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:164e63,50:123047,100:0f172a&animation=twinkling" alt="Animated footer"/>
