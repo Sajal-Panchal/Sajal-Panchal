@@ -27,7 +27,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sajal-Panchal&label=PROFILE%20VIEWS&color=0EA5E9&style=flat-square" alt="Profile views"/>
+
 <img src="https://img.shields.io/badge/Open%20to-Data%20Science%20%26%20AI%20Roles-16A34A?style=flat-square" alt="Open to opportunities"/>
 <img src="https://img.shields.io/badge/Location-Gurgaon%2C%20India-334155?style=flat-square" alt="Location"/>
 
