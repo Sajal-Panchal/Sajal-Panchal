@@ -35,7 +35,7 @@
 
 ---
 
-## `01 // SYSTEM_PROFILE` — About the Developer
+## About the Developer
 
 <img align="right" width="32%" src="https://github-readme-stats.shion.dev/api?username=Sajal-Panchal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
 
@@ -54,14 +54,14 @@ Hey! I'm **Sajal Panchal**, a Computer Science student interested in **Data Scie
 
 ---
 
-## `02 // TECHNOLOGY_STACK` — Engineering Toolkit
+## Engineering Toolkit
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,pandas,mysql,postgres,git,github,vscode&theme=dark" alt="Technology icons: Python, ML, data and developer tools"/>
 
 
-### `LANGUAGE_LAYER` // Programming & Querying
+### Programming & Querying
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/></a>
 <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>
@@ -69,7 +69,7 @@ Hey! I'm **Sajal Panchal**, a Computer Science student interested in **Data Scie
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
 
-### `ANALYTICS_LAYER` // Data Processing & Visualization
+### Data Processing & Visualization
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
 <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
 <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/></a>
@@ -79,14 +79,14 @@ Hey! I'm **Sajal Panchal**, a Computer Science student interested in **Data Scie
 <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/></a>
 <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/></a>
 
-### `INTELLIGENCE_LAYER` // Machine Learning & AI
+###  Machine Learning & AI
 <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/></a>
 <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
 <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
 <a href="https://scipy.org/"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/></a>
 <a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/></a>
 
-### `INFRASTRUCTURE_LAYER` // Databases, Cloud & Dev Tools
+###  Databases, Cloud & Dev Tools
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
 <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/></a>
@@ -117,7 +117,7 @@ Hey! I'm **Sajal Panchal**, a Computer Science student interested in **Data Scie
 
 ---
 
-## `03 // DATA_PIPELINE` — From Raw Data to Intelligence
+## DATA_PIPELINE — From Raw Data to Intelligence
 
 ```mermaid
 flowchart LR
@@ -235,7 +235,7 @@ WHERE revenue_rank <= 3;
 
 ---
 
-## `04 // PROJECT_MODULES` — Applied Data & AI Projects
+## Applied Data & AI Projects
 
 > Project summaries below describe the work and learning areas. Add the exact repository links in place of the placeholders when each project has its own public repository.
 
@@ -288,7 +288,7 @@ Practice experience with labeling support data for intent, sentiment, and person
 
 ---
 
-## `05 // EXPERIENCE_LOG` — Simulations & Applied Learning
+## Simulations & Applied Learning
 
 | Period | Program / role | Focus |
 |---|---|---|
@@ -300,7 +300,7 @@ Practice experience with labeling support data for intent, sentiment, and person
 
 ---
 
-## `06 // CREDENTIALS` — Education & Certifications
+## Education & Certifications
 
 <div align="center">
 
@@ -316,7 +316,7 @@ Practice experience with labeling support data for intent, sentiment, and person
 
 ---
 
-## `07 // REPOSITORY_METRICS` — GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -331,7 +331,7 @@ Practice experience with labeling support data for intent, sentiment, and person
 
 </div>
 
-### `VISUAL_TELEMETRY` // Contribution Animation
+### Contribution Animation
 
 > To display this animation, configure the GitHub Actions workflow that generates `github-snake.svg` and publishes it to the `output` branch.
 
@@ -345,7 +345,7 @@ Practice experience with labeling support data for intent, sentiment, and person
 
 ---
 
-## `08 // ACTIVE_BUILDS` — Current Research & Development
+## Current Research & Development
 
 - 🧪 Practicing machine-learning workflows with Scikit-learn: preprocessing, feature engineering, cross-validation, and tuning.
 - 🎓 Continuing to learn Full Stack Data Science & AI.
@@ -355,7 +355,7 @@ Practice experience with labeling support data for intent, sentiment, and person
 
 ---
 
-## `09 // NETWORK_INTERFACE` — Connect & Collaborate
+## Connect & Collaborate
 
 <div align="center">
 
