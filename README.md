@@ -12,7 +12,12 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Turning+data+into+actionable+insights;Building+with+Python%2C+SQL+%26+Machine+Learning;Designing+clear%2C+insightful+BI+dashboards;Exploring+Generative+AI%2C+NLP+%26+MLOps" alt="Animated typing text"/>
 </a>
+<br/>
 
+<img src="https://wsrv.nl/?url=github.com/Sajal-Panchal.png&w=220&h=220&fit=cover&mask=circle" width="190" alt="Sajal Panchal"/>
+<!-- To use another photo: upload to assets/profile.jpg and replace the src above with assets/profile.jpg -->
+
+<br/><br/>
 <br/>
 
 <a href="https://linkedin.com/in/sajal-panchal-742030316"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
